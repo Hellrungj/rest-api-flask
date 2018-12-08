@@ -20,7 +20,7 @@ Basic TODO list restful api using Flask
 ```pip3 install flask_restful```
 
 ## Run Server
-```python api.py```
+```python3 api.py```
 
 ## Resources
 * [python-guide](https://docs.python-guide.org/)
